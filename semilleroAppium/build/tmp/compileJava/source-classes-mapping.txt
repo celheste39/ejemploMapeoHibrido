@@ -1,0 +1,16 @@
+utils/ElementFinder.java
+ utils.ElementFinder
+userInterface/pages/BusquedaPages.java
+ userInterface.pages.BusquedaPages
+utils/TipoClaseConstante.java
+ utils.TipoClaseConstante
+tasks/BusquedaRapida.java
+ tasks.BusquedaRapida
+userInterface/locators/BusquedaLocators.java
+ userInterface.locators.BusquedaLocators
+utils/BaseLocator.java
+ utils.BaseLocator
+utils/Locator.java
+ utils.Locator
+appiumDriver/AppiumAndroidDriver.java
+ appiumDriver.AppiumAndroidDriver

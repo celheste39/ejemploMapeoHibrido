@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Busqueda de contenido en la app de YouTube" skipped="0" tests="1" time="29.34" timestamp="2021-09-18 03:43:37"><testcase name="Busqueda exitosa"><error type="java.lang.ExceptionInInitializerError"/><system-err>null&#13;
+tasks.BusquedaRapida.performAs(BusquedaRapida.java:17)&#13;
+stepDefinitions.YtStepDefinitions.deseeVerVideos(YtStepDefinitions.java:27)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
